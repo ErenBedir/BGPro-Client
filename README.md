@@ -13,3 +13,9 @@ Works for cmd commands, python and nodejs codes.
 # Why Making This
 
 I'm very boring today. are you have better idea?
+
+# Edit
+
+i lost all of the files. (with burning maincard).
+so will make better and share.
+its really basic but i am lazy.
